@@ -1,9 +1,9 @@
 !
 ! Title: Ad Filter For AdGuard  
 ! Description: 这是一个适用于AdGuard的广告拦截规则，配合官方拦截规则能有效阻止绝大部分中国互联网的广告。但请注意，由于此规则由个人维护且以个人使用为目的，所以可能有误拦截的情况发生。  
-! Version: 2.0.1  
+! Version: 2.0.2  
 ! Homepage: https://ad.kirychan.com  
-! Last modified: 2024-12-13T23:18:09+09:00  
+! Last modified: 2024-12-28T11:35:03+09:00  
  
 ! 快手相关服务  
 !
@@ -120,11 +120,16 @@
 ||cdn-new-ad.wtzw.com.g4.bdydns.com^
 ||cdn-new-ad.wtzw.com^
 ||qm989.com^
+||s.peplle.cn^
  
 ! 友盟和数字联盟  
 !
 ||shuzilm.cn^
 ||umeng.com^
+ 
+! VIVO广告  
+||risk-fp-openapi.vivo.com.cn^
+||ssp.vivo.com.cn^
  
 ! 其他未分类  
 !
